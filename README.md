@@ -14,6 +14,8 @@
      src="https://user-images.githubusercontent.com/92541911/137641975-676b4939-50c0-44a5-b24d-ca94dcdeec37.png" alt="Banner de apresentação">
 </div>
 
+#### Um entusiasta Python, procurando melhorar a humanidade e a maneira como criamos software. Gosto de interagir com as pessoas e aprender coisas novas sobre programação, series e filmes, vida, etc.
+
 #
   
 <!-- Status e linguagens usadas -->
