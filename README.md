@@ -1,10 +1,22 @@
+<meta name="viewport" content="width=device-width">
+
 ## Olá! Eu sou Thiago Aquino 
 
 <!-- Banner -->
 <div align="center">
+  
+ <img srcset="https://user-images.githubusercontent.com/92541911/137641975-676b4939-50c0-44a5-b24d-ca94dcdeec37.png 320w,
+             https://user-images.githubusercontent.com/92541911/137641975-676b4939-50c0-44a5-b24d-ca94dcdeec37.png 480w,
+             https://user-images.githubusercontent.com/92541911/137641975-676b4939-50c0-44a5-b24d-ca94dcdeec37.png 800w"
+     sizes="(max-width: 320px) 280px,
+            (max-width: 480px) 440px,
+            800px"
+     src="https://user-images.githubusercontent.com/92541911/137641975-676b4939-50c0-44a5-b24d-ca94dcdeec37.png" alt="Banner de apresentação">
+
+<!-- 
   <img height="250em" src="https://user-images.githubusercontent.com/92541911/137641975-676b4939-50c0-44a5-b24d-ca94dcdeec37.png" />
 </div>
-
+-->
 #
 
 <div align="center">
