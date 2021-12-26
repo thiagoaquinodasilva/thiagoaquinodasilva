@@ -3,36 +3,45 @@
 
 ## Olá! Eu sou Thiago Aquino 
 
-<!-- Banner -->
+<!-- Banner animado com ajuste de imagem para Desktop, Tablet e Mobile -->
 <div align="center">
-  <img srcset="https://user-images.githubusercontent.com/92541911/137641975-676b4939-50c0-44a5-b24d-ca94dcdeec37.png 320w,
-             https://user-images.githubusercontent.com/92541911/137641975-676b4939-50c0-44a5-b24d-ca94dcdeec37.png 480w,
-             https://user-images.githubusercontent.com/92541911/137641975-676b4939-50c0-44a5-b24d-ca94dcdeec37.png 800w"
+  <img srcset="https://res.cloudinary.com/practicaldev/image/fetch/s--_AGrXPbv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%253Fitemid%253D15828752 320w,
+             https://res.cloudinary.com/practicaldev/image/fetch/s--_AGrXPbv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%253Fitemid%253D15828752 480w,
+             https://res.cloudinary.com/practicaldev/image/fetch/s--_AGrXPbv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%253Fitemid%253D15828752 800w"
      sizes="(max-width: 320px) 280px,
             (max-width: 480px) 440px,
             800px"
-     src="https://user-images.githubusercontent.com/92541911/137641975-676b4939-50c0-44a5-b24d-ca94dcdeec37.png" alt="Banner de apresentação">
+     src="https://res.cloudinary.com/practicaldev/image/fetch/s--_AGrXPbv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%253Fitemid%253D15828752" alt="Banner animado">
 </div>
 
-#### Um entusiasta Python, procurando melhorar a humanidade e a maneira como criamos software. Gosto de interagir com as pessoas e aprender coisas novas sobre programação, series e filmes, vida, etc.
+#### 🌱 Atualmente estou estudando através de um Bootcamp .NET e a linguagem C#
+Sou formado em Análise e Desenvolvimento de Sistemas, tenho 29 anos atualmente. Gosto de interagir com as pessoas e aprender coisas novas sobre programação, series e filmes, vida, etc.
 
 #
   
 <!-- Status e linguagens usadas -->
 <div align="center">
   <a href="https://github.com/thiagoaquinodasilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoaquinodasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoaquinodasilva&layout=compact&langs_count=7&theme=dark" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thiagoaquinodasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoaquinodasilva&layout=compact&langs_count=7&theme=dark" />
 </div>
+  
   
 #  
  <!-- icones --> 
-<div align="center">
-  <img alt="Thiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img alt="Thiago-Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
-  <img alt="Thiago-git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
-  <img alt="Thiago-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+### Ferramentas e linguagens
+<div align="left">
+  <img alt="Thiago-dotNetCore" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img alt="Thiago-CSharp" height="50" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img alt="Thiago-VSCode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img alt="Thiago-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   
- <!-- gif yoda --> 
-  <img align="right" alt="Thiago-yoda" height="70" width="70" src="https://c.tenor.com/7M_uDrv9GQEAAAAi/baby-yoda-baby-yoda-walk.gif" />
-<div>
+ <!-- gif Grogo (Baby yoda) representando que ainda estou em crescimento no conhecimento de TI --> 
+  <img align="right" alt="Thiago-Grogo" height="70" width="70" src="https://c.tenor.com/7M_uDrv9GQEAAAAi/baby-yoda-baby-yoda-walk.gif" />
+</div>
+  
+#
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&multiline=true&width=600&height=70&lines=Cada+ferida+%C3%A9+uma+li%C3%A7%C3%A3o%2C;e+cada+li%C3%A7%C3%A3o+nos+torna+melhores.)](https://git.io/typing-svg)
+
+George R. R. Martin
