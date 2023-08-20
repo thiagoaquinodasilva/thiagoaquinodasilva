@@ -14,7 +14,7 @@
      src="https://res.cloudinary.com/practicaldev/image/fetch/s--_AGrXPbv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%253Fitemid%253D15828752" alt="Banner animado">
 </div>
 
-#### 🌱 Atualmente estou estudando através de vários Bootcamps (Dio.me - Becas Santender / Start By Capgemini / Hackathon Stefanini)
+#### 🌱 Atualmente estou estudando através de vários Bootcamps (Dio.me - Becas Santender / Start By Capgemini / Hackathon Stefanini) tanto para o desenvolvimento Font-end, Back-end e QA.
 Sou formado em Análise e Desenvolvimento de Sistemas, tenho 31 anos atualmente e trabalho como Suporte Técnico para o público priorizado do Banco do Brasil. Gosto de interagir com as pessoas e aprender coisas novas sobre programação, series e filmes, vida, etc.
 
 #
@@ -28,13 +28,21 @@ Sou formado em Análise e Desenvolvimento de Sistemas, tenho 31 anos atualmente 
   
   
 #  
- <!-- icones --> 
+ <!-- icones do site https://devicon.dev/ --> 
 ### Ferramentas e linguagens
 <div align="left">
-  <img alt="Thiago-Java" height="50" width="62" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" />
+  <img alt="Thiago-HTML" height="50" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+  <img alt="Thiago-CSS" height="50" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+  <img alt="Thiago-Java" height="50" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+  <img alt="Thiago-Angular" height="50" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+  <img alt="Thiago-JS" height="50" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
   <img alt="Thiago-VSCode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img alt="Thiago-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  
+  <img alt="Thiago-SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+  <img alt="Thiago-NoSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+  <img alt="Thiago-Cucumber" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+  <img alt="Thiago-Selenium" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+    
  <!-- gif Grogo (Baby yoda) representando que ainda estou em crescimento no conhecimento de TI --> 
   <img align="right" alt="Thiago-Grogo" height="70" width="70" src="https://c.tenor.com/7M_uDrv9GQEAAAAi/baby-yoda-baby-yoda-walk.gif" />
 </div>
