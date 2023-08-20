@@ -14,8 +14,8 @@
      src="https://res.cloudinary.com/practicaldev/image/fetch/s--_AGrXPbv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%253Fitemid%253D15828752" alt="Banner animado">
 </div>
 
-#### 🌱 Atualmente estou estudando através de um Bootcamp .NET e a linguagem C#
-Sou formado em Análise e Desenvolvimento de Sistemas, tenho 29 anos atualmente. Gosto de interagir com as pessoas e aprender coisas novas sobre programação, series e filmes, vida, etc.
+#### 🌱 Atualmente estou estudando através de vários Bootcamps (Dio.me - Becas Santender / Start By Capgemini / Hackathon Stefanini)
+Sou formado em Análise e Desenvolvimento de Sistemas, tenho 31 anos atualmente e trabalho como Suporte Técnico para o público priorizado do Banco do Brasil. Gosto de interagir com as pessoas e aprender coisas novas sobre programação, series e filmes, vida, etc.
 
 #
   
@@ -31,8 +31,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas, tenho 29 anos atualmente.
  <!-- icones --> 
 ### Ferramentas e linguagens
 <div align="left">
-  <img alt="Thiago-dotNetCore" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img alt="Thiago-CSharp" height="50" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img alt="Thiago-Java" height="50" width="62" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" />
   <img alt="Thiago-VSCode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img alt="Thiago-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   
