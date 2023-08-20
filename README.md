@@ -41,7 +41,8 @@ Sou formado em Análise e Desenvolvimento de Sistemas, tenho 31 anos atualmente 
   <img alt="Thiago-SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
   <img alt="Thiago-NoSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
   <img alt="Thiago-Cucumber" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-  <img alt="Thiago-Selenium" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+  <img alt="Thiago-Selenium" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+          
     
  <!-- gif Grogo (Baby yoda) representando que ainda estou em crescimento no conhecimento de TI --> 
   <img align="right" alt="Thiago-Grogo" height="70" width="70" src="https://c.tenor.com/7M_uDrv9GQEAAAAi/baby-yoda-baby-yoda-walk.gif" />
