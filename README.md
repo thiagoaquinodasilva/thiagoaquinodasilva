@@ -15,7 +15,7 @@
 </div>
 
 #### 🌱 Atualmente estou estudando através de vários Bootcamps (Dio.me - Becas Santender / Start By Capgemini / Hackathon Stefanini) tanto para o desenvolvimento Font-end, Back-end e QA.
-Sou formado em Análise e Desenvolvimento de Sistemas, tenho 31 anos atualmente e trabalho como Suporte Técnico para o público priorizado do Banco do Brasil. Gosto de interagir com as pessoas e aprender coisas novas sobre programação, series e filmes, vida, etc.
+Sou formado em Análise e Desenvolvimento de Sistemas, tenho 31 anos atualmente e trabalho com Suporte Técnico para o público priorizado do Banco do Brasil. Gosto de interagir com as pessoas e aprender coisas novas sobre programação, series e filmes, vida, etc.
 
 #
   
