@@ -31,16 +31,16 @@ Sou formado em Análise e Desenvolvimento de Sistemas, tenho 31 anos atualmente 
  <!-- icones do site https://devicon.dev/ --> 
 ### Ferramentas e linguagens
 <div align="left">
-  <img alt="Thiago-HTML" height="50" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-  <img alt="Thiago-CSS" height="50" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-  <img alt="Thiago-Java" height="50" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-  <img alt="Thiago-Angular" height="50" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-  <img alt="Thiago-JS" height="50" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+  <img alt="Thiago-HTML" height="50" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" />
+  <img alt="Thiago-CSS" height="50" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" />
+  <img alt="Thiago-Java" height="50" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Thiago-Angular" height="50" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
+  <img alt="Thiago-JS" height="50" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="Thiago-VSCode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img alt="Thiago-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="Thiago-SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-  <img alt="Thiago-NoSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-  <img alt="Thiago-Cucumber" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+  <img alt="Thiago-SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="Thiago-NoSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img alt="Thiago-Cucumber" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-original.svg" />
   <img alt="Thiago-Selenium" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
           
     
