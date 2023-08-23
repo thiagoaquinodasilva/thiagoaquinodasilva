@@ -1,34 +1,30 @@
-<!-- Ajusta para mobile -->
-<meta name="viewport" content="width=device-width">
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+<h1 align="center">Olá 👋, Eu sou Thiago Aquino</h1>
+<h3 align="center">Desenvolvedor Full stack em constante aprendizado, buscando aprimorar minhas habilidades</h3>
+<br>
+<br>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## Olá! Eu sou Thiago Aquino 
 
-<!-- Banner animado com ajuste de imagem para Desktop, Tablet e Mobile -->
-<div align="center">
-  <img srcset="https://res.cloudinary.com/practicaldev/image/fetch/s--_AGrXPbv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%253Fitemid%253D15828752 320w,
-             https://res.cloudinary.com/practicaldev/image/fetch/s--_AGrXPbv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%253Fitemid%253D15828752 480w,
-             https://res.cloudinary.com/practicaldev/image/fetch/s--_AGrXPbv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%253Fitemid%253D15828752 800w"
-     sizes="(max-width: 320px) 280px,
-            (max-width: 480px) 440px,
-            800px"
-     src="https://res.cloudinary.com/practicaldev/image/fetch/s--_AGrXPbv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%253Fitemid%253D15828752" alt="Banner animado">
-</div>
+- 🔭 Atualmente estou trabalhando com **Suporte Técnico**
 
-#### 🌱 Atualmente estou estudando através de vários Bootcamps (Dio.me - Becas Santender / Start By Capgemini / Hackathon Stefanini) tanto para o desenvolvimento Font-end, Back-end e QA.
-Sou formado em Análise e Desenvolvimento de Sistemas, tenho 31 anos atualmente e trabalho com Suporte Técnico para o público priorizado do Banco do Brasil. Gosto de interagir com as pessoas e aprender coisas novas sobre programação, series e filmes, vida, etc.
+- 🌱 Estou dando os primeiros passos com **Full Stack**
+
+- 🎓 Formado em curso tecnólogo em **Análise e Desenvolvimento de Sistemas**
+
+- 📫 Meu e-mail: **thiagoaquino.df@gmail.com**
+
+
+<br>
+
+
+<h3 align="left">Principais Redes:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/thiago-aquino-75b07023a" target="blank"><img align="center" src="https://icon-library.com/images/linkedin-vector-icon/linkedin-vector-icon-4.jpg" alt="linkedin thiago aquino" height="40" width="40" /></a> <a href="https://web.dio.me/users/thiaquino92/users?tab=skills" target="blank"><img align="center" src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="rishav-chanda-b89a791b3" height="60" width="60" /></a>
+</p>
 
 #
-  
-<!-- Status e linguagens usadas -->
-<div align="center">
-  <a href="https://github.com/thiagoaquinodasilva">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thiagoaquinodasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoaquinodasilva&layout=compact&langs_count=7&theme=dark" />
-</div>
-  
-  
-#  
- <!-- icones do site https://devicon.dev/ --> 
+
 ### Ferramentas e linguagens
 <div align="left">
   <img alt="Thiago-HTML" height="50" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -39,17 +35,23 @@ Sou formado em Análise e Desenvolvimento de Sistemas, tenho 31 anos atualmente 
   <img alt="Thiago-VSCode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img alt="Thiago-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="Thiago-SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="Thiago-NoSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img alt="Thiago-Cucumber" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
-  <img alt="Thiago-Selenium" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
-          
-    
- <!-- gif Grogo (Baby yoda) representando que ainda estou em crescimento no conhecimento de TI --> 
-  <img align="right" alt="Thiago-Grogo" height="70" width="70" src="https://c.tenor.com/7M_uDrv9GQEAAAAi/baby-yoda-baby-yoda-walk.gif" />
+</div>
+
+#
+
+### GitHub Stats
+<!-- Status e linguagens usadas -->
+<div>
+  <a href="https://github.com/thiagoaquinodasilva">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thiagoaquinodasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <br>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoaquinodasilva&layout=compact&langs_count=7&theme=dark" />
 </div>
   
-#
-  
+<br>
+<br>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&multiline=true&width=600&height=70&lines=Cada+ferida+%C3%A9+uma+li%C3%A7%C3%A3o%2C;e+cada+li%C3%A7%C3%A3o+nos+torna+melhores.)](https://git.io/typing-svg)
 
 George R. R. Martin
