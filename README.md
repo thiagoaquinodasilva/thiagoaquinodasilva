@@ -20,7 +20,7 @@
 
 <h3 align="left">Principais Redes:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thiago-aquino-75b07023a" target="blank"><img align="center" src="https://icon-library.com/images/linkedin-vector-icon/linkedin-vector-icon-4.jpg" alt="linkedin thiago aquino" height="40" width="40" /></a> <a href="https://web.dio.me/users/thiaquino92/users?tab=skills" target="blank"><img align="center" src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="rishav-chanda-b89a791b3" height="60" width="60" /></a>
+<a href="https://linkedin.com/in/thiago-aquino-75b07023a" target="blank"><img align="center" src="https://icon-library.com/images/linkedin-vector-icon/linkedin-vector-icon-4.jpg" alt="perfil linkedin thiago aquino" height="40" width="40" /></a> <a href="https://web.dio.me/users/thiaquino92/users?tab=skills" target="blank"><img align="center" src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="perfil DIO thiago aquino" height="60" width="60" /></a>
 </p>
 
 #
